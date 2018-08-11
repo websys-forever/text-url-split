@@ -8,5 +8,10 @@
             "email": "websys.forever@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WebsysForever\\": "src"
+         }
+    }
 }
