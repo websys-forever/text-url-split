@@ -1,0 +1,12 @@
+{
+    "name": "websys-forever/text-url-split",
+    "description": "split text with url delimeter",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Evgenii Melekhin",
+            "email": "websys.forever@gmail.com"
+        }
+    ],
+    "require": {}
+}
